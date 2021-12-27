@@ -25,3 +25,5 @@
   ![Snake animation](https://github.com/Gleyciana/Gleyciana/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gleyciana&repo=Gleyciana&theme=react)](https://github.com/Gleyciana/Gleyciana)
