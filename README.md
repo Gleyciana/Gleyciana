@@ -27,12 +27,11 @@
 
 #### Studying in this moment:
 <code><img height="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Selenium.svg"></code>
+<code><img height="30" src="https://www.mytechmint.com/wp-content/uploads/2020/08/SQL-Tutorials.jpg"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
-<code><img height="30" src="https://www.spec-india.com/wp-content/uploads/2022/10/JMeter-icon.png"></code>
-<code><img height="30" src="https://th.bing.com/th/id/R.9a673d9b6de46cad25b63a0918e0a8ac?rik=JrR8WlOTRsueuw&pid=ImgRaw&r=0"></code>
 <code><img height="30" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png"></code>
-
+<code><img height="30" src="https://th.bing.com/th/id/R.9a673d9b6de46cad25b63a0918e0a8ac?rik=JrR8WlOTRsueuw&pid=ImgRaw&r=0"></code>
+<code><img height="30" src="https://www.spec-india.com/wp-content/uploads/2022/10/JMeter-icon.png"></code>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
