@@ -27,7 +27,6 @@
 
 #### Studying in this moment:
 <code><img height="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
-<code><img height="30" src="https://www.mytechmint.com/wp-content/uploads/2020/08/SQL-Tutorials.jpg"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 <code><img height="30" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png"></code>
 <code><img height="30" src="https://th.bing.com/th/id/R.9a673d9b6de46cad25b63a0918e0a8ac?rik=JrR8WlOTRsueuw&pid=ImgRaw&r=0"></code>
